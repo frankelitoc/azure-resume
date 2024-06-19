@@ -1,4 +1,4 @@
-# azure-resume
+# azure-resume - OLD
 Professional Resume hosted with Azure Services as part of a personal project
 
 ## Main Commits | 12/20/2022
